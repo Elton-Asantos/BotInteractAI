@@ -1,0 +1,112 @@
+[
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Paciente usa Warfarina e Ibuprofeno. Possíveis interações?",
+    "output": "O Ibuprofeno pode aumentar o efeito anticoagulante da Warfarina, elevando o risco de sangramento. Monitoramento regular do INR é recomendado. (Referência simulada:  JAMA Internal Medicine, 2024, Vol. 184, No. 3, p. 300-310)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Paciente com doença hepática usa Paracetamol. Riscos?",
+    "output": "Pacientes com doença hepática devem usar Paracetamol com cautela devido ao risco de hepatotoxicidade. Dosagem reduzida pode ser necessária. (Referência simulada:  Hepatology, 2023, Vol. 78, No. 5, p. 1500-1515)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Interação entre Azitromicina e Simvastatina?",
+    "output": "A Azitromicina pode aumentar os níveis plasmáticos de Simvastatina, elevando o risco de miopatia. Monitoramento de enzimas musculares é recomendado. (Referência simulada:  Clinical Pharmacology & Therapeutics, 2022, Vol. 112, No. 2, p. 450-465)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Paciente usa Omeprazol e Clopidogrel. Preocupações?",
+    "output": "O Omeprazol pode reduzir a absorção do Clopidogrel, diminuindo sua eficácia na prevenção de eventos trombóticos.  (Referência simulada:  Circulation, 2021, Vol. 144, No. 1, p. 100-115)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Interação entre  Grapefruit e Estatinas?",
+    "output": "O Grapefruit pode inibir enzimas que metabolizam as estatinas, aumentando seus níveis plasmáticos e o risco de miopatia. (Referência simulada:  British Journal of Clinical Pharmacology, 2020, Vol. 90, No. 4, p. 1200-1210)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Riscos de usar Amitriptilina com álcool?",
+    "output": "O álcool potencializa os efeitos sedativos da Amitriptilina, aumentando o risco de sonolência e queda. (Referência simulada:  Journal of Clinical Psychopharmacology, 2019, Vol. 39, No. 6, p. 600-610)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Interação entre antidepressivos MAOIs e tiramina?",
+    "output": "A ingestão de alimentos ricos em tiramina com MAOIs pode causar crise hipertensiva.  (Referência simulada:  Journal of Clinical Psychiatry, 2018, Vol. 79, No. 2, p. 150-160)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Paciente usa Metoprolol e Verapamil. Possíveis efeitos?",
+    "output": "Uso concomitante pode causar bradicardia e hipotensão.  (Referência simulada:  American Heart Journal, 2017, Vol. 194, No. 5, p. 600-615)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Interação entre Rifampicina e Contraceptivos orais?",
+    "output": "A Rifampicina pode reduzir a eficácia dos contraceptivos orais.  (Referência simulada:  Contraception, 2016, Vol. 94, No. 3, p. 250-260)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Paciente usa Digoxina e Amiodarona. Cuidados?",
+    "output": "Amiodarona pode aumentar os níveis séricos de Digoxina, aumentando o risco de toxicidade.  Monitoramento rigoroso dos níveis de Digoxina é necessário. (Referência simulada:  Journal of Cardiovascular Pharmacology, 2015, Vol. 66, No. 2, p.100-112)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Interação entre  Lítio e Diuréticos?",
+    "output": "Diuréticos podem aumentar o risco de toxicidade por Lítio. (Referência simulada:  Biological Psychiatry, 2014, Vol. 76, No. 4, p. 300-310)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Paciente usa  Fenitoína e  Ácido Valpróico. Preocupações?",
+    "output": "Ambas as drogas podem aumentar os níveis sanguíneos uma da outra, aumentando o risco de efeitos adversos. (Referência simulada:  Epilepsia, 2013, Vol. 54, No. 10, p. 1700-1710)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Interação entre  Claritromicina e Teofilina?",
+    "output": "A Claritromicina pode inibir o metabolismo da Teofilina, levando ao aumento de seus níveis sanguíneos e efeitos adversos. (Referência simulada:  Chest, 2012, Vol. 142, No. 6, p. 1400-1410)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Paciente usa  Carbamazepina e  Contraceptivos orais. Cuidados?",
+    "output": "A Carbamazepina pode reduzir a eficácia dos contraceptivos orais. (Referência simulada:  Obstetrics & Gynecology, 2011, Vol. 118, No. 4, p. 800-810)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Interação entre  Ketoconazol e  Estatinas?",
+    "output": "O Ketoconazol pode aumentar os níveis plasmáticos das estatinas, aumentando o risco de miopatia. (Referência simulada:  Clinical Lipidology, 2010, Vol. 5, No. 2, p. 200-215)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Paciente usa  Tacrolimus e  Simvastatina. Riscos?",
+    "output": "Aumento do risco de miopatia. Monitoramento de enzimas musculares é recomendado. (Referência simulada:  American Journal of Transplantation, 2009, Vol. 9, No. 12, p. 2600-2610)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Interação entre  Eritromicina e  Teofilina?",
+    "output": "A Eritromicina pode aumentar os níveis sanguíneos de Teofilina, levando ao aumento de efeitos adversos. (Referência simulada:  Respiratory Care, 2008, Vol. 53, No. 8, p. 1000-1010)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Paciente usa  Gentamicina e  Diuréticos. Cuidados?",
+    "output": "Aumento do risco de nefrotoxicidade.  Monitorização renal é recomendada. (Referência simulada:  Kidney International, 2007, Vol. 72, No. 5, p. 600-612)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Interação entre  Ciclosporina e  Griseofulvina?",
+    "output": "Aumento do risco de nefrotoxicidade. Monitorização renal é importante. (Referência simulada:  Transplantation, 2006, Vol. 82, No. 6, p. 800-812)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Paciente usa  Amiodarona e  Warfarina. Possíveis problemas?",
+    "output": "A Amiodarona pode potencializar o efeito anticoagulante da Warfarina, aumentando o risco de sangramento. Monitoramento rigoroso do INR é essencial. (Referência simulada:  Journal of Thrombosis and Haemostasis, 2005, Vol. 3, No. 10, p. 2000-2010)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Riscos de usar  Lítio e  Ibuprofeno?",
+    "output": "O Ibuprofeno pode reduzir os níveis séricos de Lítio, comprometendo a eficácia do tratamento. (Referência simulada:  The Lancet, 2004, Vol. 364, No. 9447, p. 1600-1610)"
+  },
+  {
+    "instruction": "Você é um assistente de IA especializado em interações medicamentosas. Responda com precisão, oferecendo informações relevantes e avisos, citando a fonte científica sempre que possível. Não forneça diagnósticos ou recomendações médicas.",
+    "input": "Interação entre  Cimetidina e  Teofilina?",
+    "output": "A Cimetidina pode inibir o metabolismo da Teofilina, aumentando seus níveis sanguíneos e o risco de toxicidade. (Referência simulada:  Clinical Therapeutics, 2003, Vol. 25, No. 9, p. 2200-2210)"
+  }
+]
