@@ -116,8 +116,8 @@ firebase deploy
 ### Orquestração de Agentes:
 
 #### Um agente para processar o histórico médico do paciente, garantindo uma personalização ainda maior.
-Outro agente para consultar artigos científicos atualizados, fornecendo informações alinhadas com as últimas descobertas médicas.
-Suporte Multiplataforma: Adicionar integração com WhatsApp, Telegram e aplicativos móveis. ####
+#### Outro agente para consultar artigos científicos atualizados, fornecendo informações alinhadas com as últimas descobertas médicas.
+#### Suporte Multiplataforma: Adicionar integração com WhatsApp, Telegram e aplicativos móveis.
 
 #### Melhoria do Modelo de IA: Treinamento adicional utilizando dados próprios para especializar ainda mais o chatbot.
 
