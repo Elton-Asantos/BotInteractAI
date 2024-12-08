@@ -56,12 +56,9 @@ Este é um chatbot que utiliza inteligência artificial para fornecer informaç�
 
 ## 📂 Estrutura do Projeto
 
+  ```bash
 . ├── public/ # Arquivos do frontend │ ├── index.html # Interface web │ ├── style.css # Estilos (opcional, se usado) │ └── script.js # Lógica do frontend ├── index.js # Backend (Node.js) ├── .env # Variáveis de ambiente (não incluído no repositório) ├── firebase.json # Configuração do Firebase Hosting ├── package.json # Dependências e scripts do projeto └── README.md # Documentação do projeto
-
-yaml
-Copiar código
-
----
+```
 
 ## 🚀 Como Rodar o Projeto Localmente
 
@@ -96,18 +93,22 @@ Executar Localmente:
 
 🌐 Deploy no Firebase
 1. Faça login no Firebase:
-
+  ```bash
 firebase login
-   
+   ```
 2. Configure o Firebase no projeto:
 
+ ```bash
 firebase init
+   ```
 Escolha "Hosting" e siga as instruções.
 Defina o diretório de deploy (geralmente public).
 
 3. Realize o deploy:
 
+```bash
 firebase deploy
+ ```
 
 ## 💡 Ideias Futuras
 ### O projeto tem potencial para ser expandido com funcionalidades avançadas:
@@ -116,19 +117,20 @@ firebase deploy
 
 #### Um agente para processar o histórico médico do paciente, garantindo uma personalização ainda maior.
 Outro agente para consultar artigos científicos atualizados, fornecendo informações alinhadas com as últimas descobertas médicas.
-Suporte Multiplataforma: Adicionar integração com WhatsApp, Telegram e aplicativos móveis.
+Suporte Multiplataforma: Adicionar integração com WhatsApp, Telegram e aplicativos móveis. ####
 
-Melhoria do Modelo de IA: Treinamento adicional utilizando dados próprios para especializar ainda mais o chatbot.
+#### Melhoria do Modelo de IA: Treinamento adicional utilizando dados próprios para especializar ainda mais o chatbot.
 
-🤝 Contribuições
-Contribuições são bem-vindas!
-Siga os passos para colaborar:
+## 🤝 Contribuições
+### Contribuições são bem-vindas!
+### Siga os passos para colaborar:
 
- Faça um fork deste repositório.
- Crie uma branch para suas alterações:
+#### Faça um fork deste repositório.
+#### Crie uma branch para suas alterações:
    ```bash
        git checkout -b minha-nova-funcionalidade
    ```
- Envie suas alterações via pull request.
- 📄 Licença
- Este projeto está disponível sob a licença MIT.
+
+### Envie suas alterações via pull request.
+## 📄 Licença
+Este projeto está disponível sob a licença MIT.
