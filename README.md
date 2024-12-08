@@ -37,10 +37,6 @@ Este é um chatbot que utiliza inteligência artificial para fornecer informaç�
    git clone https://github.com/SeuUsuario/SeuRepositorio.git
    cd SeuRepositorio
    
-Peço desculpas pela confusão anterior. Aqui está o README.md revisado corretamente em formato Markdown, com todos os detalhes, agora com a estrutura correta:
-
-markdown
-Copiar código
 # ChatBot de Interação Medicamentosa
 
 ## Descrição
@@ -83,27 +79,29 @@ Copiar código
    git clone https://github.com/SeuUsuario/SeuRepositorio.git
    cd SeuRepositorio
 2. Instale as dependências:
-
-npm install
+    ```bash
+    npm install
 
 3. Crie um arquivo .env e configure a chave da API:
-   
-GROQ_API_KEY=your_api_key
+    ```bash
+   GROQ_API_KEY=your_api_key
 
 Executar Localmente:
 
 1. Inicie o servidor
-node index.js
+    ```bash
+    node index.js
 
-2. Abra o arquivo index.html no navegador ou use ferramentas como Postman para testar o endpoint /ia.
+3. Abra o arquivo index.html no navegador ou use ferramentas como Postman para testar o endpoint /ia.
 
 🌐 Deploy no Firebase
-Faça login no Firebase:
+1. Faça login no Firebase:
 
-1. firebase login
-Configure o Firebase no projeto:
+firebase login
+   
+2. Configure o Firebase no projeto:
 
-2. firebase init
+firebase init
 Escolha "Hosting" e siga as instruções.
 Defina o diretório de deploy (geralmente public).
 
@@ -112,11 +110,11 @@ Defina o diretório de deploy (geralmente public).
 firebase deploy
 
 ## 💡 Ideias Futuras
-O projeto tem potencial para ser expandido com funcionalidades avançadas:
+### O projeto tem potencial para ser expandido com funcionalidades avançadas:
 
-Orquestração de Agentes:
+### Orquestração de Agentes:
 
-Um agente para processar o histórico médico do paciente, garantindo uma personalização ainda maior.
+#### Um agente para processar o histórico médico do paciente, garantindo uma personalização ainda maior.
 Outro agente para consultar artigos científicos atualizados, fornecendo informações alinhadas com as últimas descobertas médicas.
 Suporte Multiplataforma: Adicionar integração com WhatsApp, Telegram e aplicativos móveis.
 
@@ -126,11 +124,11 @@ Melhoria do Modelo de IA: Treinamento adicional utilizando dados próprios para 
 Contribuições são bem-vindas!
 Siga os passos para colaborar:
 
-Faça um fork deste repositório.
-Crie uma branch para suas alterações:
-bash
-Copiar código
-git checkout -b minha-nova-funcionalidade
-Envie suas alterações via pull request.
-📄 Licença
-Este projeto está disponível sob a licença MIT.
+ Faça um fork deste repositório.
+ Crie uma branch para suas alterações:
+   ```bash
+       git checkout -b minha-nova-funcionalidade
+   ```
+ Envie suas alterações via pull request.
+ 📄 Licença
+ Este projeto está disponível sob a licença MIT.
